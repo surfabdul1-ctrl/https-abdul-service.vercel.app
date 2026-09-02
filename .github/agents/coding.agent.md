@@ -32,3 +32,6 @@ Keep updates concise. For completed work, include:
 - What changed
 - Validation performed
 - Any remaining risks or follow-up needed
+cd change
+mail is 
+surf.abdul1@gmail.com
